@@ -91,6 +91,7 @@ p{
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+    background-color: #724065;
 }
 .main_header {    
     padding: 42px 292px 0;
@@ -118,10 +119,10 @@ p{
     padding-bottom: 0;
 }
 .navbar-brand img{
-    width:150px;
+    width:100px;
 }
 .navbar-nav {
-    padding-left: 220px;
+    padding-left: 200px;
 }
 .navbar-nav li {
     margin: 0 35px 0 18px;
